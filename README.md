@@ -1,5 +1,5 @@
 # SRAM
-SRAM cited according to the book of MICHEAL D. CILETTI (ADVANCED DIGITAL DESIGN
+# SRAM cited according to the book of MICHEAL D. CILETTI (ADVANCED DIGITAL DESIGN
 <img width="934" height="450" alt="image" src="https://github.com/user-attachments/assets/258ff66f-e4b5-4d42-9a4e-59f5c9bce7f1" />
 
 # The block diagram of a Static Random-Access Memory
